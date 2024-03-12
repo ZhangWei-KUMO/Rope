@@ -1,8 +1,7 @@
 
 Rope是informface inswapper_128 模型的GUI应用程序。
 
-### [技术文档]([https://github.com/Hillobar/Rope/wiki](https://github.com/ZhangWei-KUMO/Rope/wiki
-))
+### [技术文档](https://github.com/ZhangWei-KUMO/Rope/wiki)
 ### [Demo Video (Rope-Ruby)](https://www.youtube.com/watch?v=4Y4U0TZ8cWY)
 ![Screenshot 2024-02-10 104718](https://github.com/Hillobar/Rope/assets/63615199/4b2ee574-c91e-4db2-ad66-5b775a049a6b)
 
