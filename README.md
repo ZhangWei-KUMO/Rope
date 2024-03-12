@@ -1,12 +1,7 @@
-![Screenshot 2024-02-10 091752](https://github.com/Hillobar/Rope/assets/63615199/dd8ab00b-d55f-4196-a50b-f2a326fba83a)
 
-Rope implements the insightface inswapper_128 model with a helpful GUI.
-### [Discord](https://discord.gg/EcdVAFJzqp)
-
-### [Donate](https://www.paypal.com/donate/?hosted_button_id=Y5SB9LSXFGRF2)
+Rope是informface inswapper_128 模型的GUI应用程序。
 
 ### [Wiki with install instructions and usage](https://github.com/Hillobar/Rope/wiki)
-
 ### [Demo Video (Rope-Ruby)](https://www.youtube.com/watch?v=4Y4U0TZ8cWY)
 
 ### ${{\color{Goldenrod}{\textsf{Last Updated 2024-02-27}}}}$ ###
@@ -15,23 +10,22 @@ Rope implements the insightface inswapper_128 model with a helpful GUI.
 
 ![Screenshot 2024-02-10 104718](https://github.com/Hillobar/Rope/assets/63615199/4b2ee574-c91e-4db2-ad66-5b775a049a6b)
 
-### Features: ###
-* Lightning speed face swapping with all the features
-* Upscalers
-* Likeness modifiers
-* Orientation management
-* Masks: borders, differentials, auto occlusion, face parsers, text-based masking - all with strength adjustments and blending settings
-* Mask view to evaluate masks directly
-* Source face merging and saving
-* Swap images or videos
-* Auto save filename generation
-* Dock/Undock the video player
-* Real-time player
-* Segment recording
-* Fine tune your video ahead of time by creating image setting markers at specific frames.
-* Lightening fast!
-
-### Performance:  ###
+### 特征: ###
+* 闪电般速度的面部置换功能
+* 全面图像增强器
+* 相似度调整器
+* 方向管理
+* 遮罩功能：边缘、差异、自动遮挡、面部解析、基于文本的遮罩——所有这些都带有强度调整和混合设置
+* 遮罩视图可以直接评估遮罩效果
+* 合并并保存源面孔
+* 交换图像或视频
+* 自动生成保存文件名
+* 视频播放器的停靠/分离
+* 实时播放器
+* 段落录制
+* 通过在特定帧创建图像设置标记，提前微调视频！
+* 
+### 性能:  ###
 Machine: 3090Ti (24GB), i5-13600K
 
 <img src="https://github.com/Hillobar/Rope/assets/63615199/3e3505db-bc76-48df-b8ac-1e7e86c8d751" width="200">
