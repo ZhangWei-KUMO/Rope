@@ -4,10 +4,6 @@ Rope是informface inswapper_128 模型的GUI应用程序。
 ### [Wiki with install instructions and usage](https://github.com/Hillobar/Rope/wiki)
 ### [Demo Video (Rope-Ruby)](https://www.youtube.com/watch?v=4Y4U0TZ8cWY)
 
-### ${{\color{Goldenrod}{\textsf{Last Updated 2024-02-27}}}}$ ###
-### ${{\color{Goldenrod}{\textsf{Welcome to Rope-Opal!}}}}$ ###
-### ${{\color{Red}{\textsf{Please grab the latest yoloface model from the link in the wiki!}}}}$ ###
-
 ![Screenshot 2024-02-10 104718](https://github.com/Hillobar/Rope/assets/63615199/4b2ee574-c91e-4db2-ad66-5b775a049a6b)
 
 ### 特征: ###
@@ -30,8 +26,8 @@ Machine: 3090Ti (24GB), i5-13600K
 
 <img src="https://github.com/Hillobar/Rope/assets/63615199/3e3505db-bc76-48df-b8ac-1e7e86c8d751" width="200">
 
-File: benchmark/target-1080p.mp4, 2048x1080, 269 frames, 25 fps, 10s
-Rendering time in seconds:
+文件： benchmark/target-1080p.mp4，2048x1080，269 帧，25 fps，10s 渲染时间（以秒为单位）：
+
 | Option | Crystal | Sapphire | Ruby | Opal |
 | --- | --- | --- | --- | --- |
 | Only Swap | 7.3 | 7.5 | 4.4 | 4.3 |
